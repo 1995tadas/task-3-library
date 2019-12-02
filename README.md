@@ -6,7 +6,7 @@
 * [Microsoft Visio]
 
 ## Užduotis
-uprojektuok bibliotekos knygų išdavimo posistemės duomenų bazę:
+Suprojektuok bibliotekos knygų išdavimo posistemės duomenų bazę:
 
 Esybės (Entities):
 Bibliotekos darbuotojai
